@@ -5,3 +5,4 @@ def mane_function():
     
 def text_function():
     print("Hello5")
+    print("Hello6")
