@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb509998-7b1f-4fbb-8679-54b60a9ea419" name="Changes" comment="Commit 3.Change gitignore">
+    <list default="true" id="bb509998-7b1f-4fbb-8679-54b60a9ea419" name="Changes" comment="Commit 4.Change gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714300087955</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit 4.Change gitignore">
+      <option name="closed" value="true" />
+      <created>1714300299151</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714300299151</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,7 +178,8 @@
     <MESSAGE value="Commit 2.Change 2.py" />
     <MESSAGE value="Commit 3.Delete 2.py" />
     <MESSAGE value="Commit 3.Change gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 3.Change gitignore" />
+    <MESSAGE value="Commit 4.Change gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 4.Change gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
