@@ -1,1 +1,0 @@
-#fig.savefig('gauss1.png')
