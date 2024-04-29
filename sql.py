@@ -1,4 +1,3 @@
-#1
 import mysql.connector
 my_db = mysql.connector.connect(
         host="127.0.0.1",
